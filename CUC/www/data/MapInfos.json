@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"开场地图","order":1,"parentId":0,"scrollX":819,"scrollY":452},
+{"id":2,"expanded":true,"name":"钢琴湖","order":2,"parentId":1,"scrollX":811,"scrollY":508},
+{"id":3,"expanded":false,"name":"星光超市","order":3,"parentId":2,"scrollX":819,"scrollY":452}
+]
